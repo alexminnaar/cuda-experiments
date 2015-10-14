@@ -4,7 +4,7 @@
  Author      : Alex Minnaar
  Version     :
  Copyright   : Whatever copyright
- Description : CUDA compute reciprocals
+ Description : CUDA vector addition
  ============================================================================
  */
 
