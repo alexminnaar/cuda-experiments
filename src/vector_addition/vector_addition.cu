@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : cuda-experiments.cu
+ Name        : vector_addition.cu
  Author      : Alex Minnaar
  Version     :
  Copyright   : Whatever copyright
