@@ -17,7 +17,7 @@
 
 
 /**
- * CUDA kernel that computes reciprocal values for a given vector
+ * CUDA kernel assigns unique threads for elements in the arrays and sums them in parallel
  */
 __global__ void vectorAdd(const float *A, const float *B, float *C,
 		int numElements) {
