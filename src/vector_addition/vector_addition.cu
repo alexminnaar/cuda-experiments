@@ -28,6 +28,8 @@ __global__ void vectorAdd(const float *A, const float *B, float *C,
 	}
 }
 
+
+/*
 int main(void) {
 	// Error code to check return values for CUDA calls
 	cudaError_t err = cudaSuccess;
@@ -205,6 +207,6 @@ int main(void) {
 	printf("Done\n");
 	return 0;
 }
-
+*/
 
 
